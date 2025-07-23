@@ -1,5 +1,5 @@
 module.exports = {
-  SESSION_ID: " ",  // add your Session Id make sure it starts with malvin~
-  OWNER_NUMBER: "263714757857", // PUT OWNER NUMBER HERE
+  SESSION_ID: " ",  // malvin~tnlxCSYR#EfiGmX4flpWpc6PII0QQdQtrYAi3tEozbq36SvGs8Jg
+  OWNER_NUMBER:50934139925
   PREFIX: "." // prefix (e.g., ., /, !, *)
 };
